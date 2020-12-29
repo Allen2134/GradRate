@@ -1,2 +1,2 @@
 # GradRate
-The project investigate the factors that predict the graduation rate of college students.
+The project investigates the factors that predict the graduation rate of college students.
