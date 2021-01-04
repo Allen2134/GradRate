@@ -1,2 +1,1 @@
-# GradRate
-The project investigates the factors that predict the graduation rate of college students.
+This Portfolio contains 6 research questions focusing on the predictors of graduation rates of colleges. The result is that the Students-Faculty Ratio, the percentage of new students from the top 10% of high school class, Acceptance Rate, and Ratio of Faculty with Ph.D.’s affect Graduation Rate in various ways. I applied 6 models: Pearson Correlation, Dependent Correlation, Simple Linear Regression (SLR), Multiple Linear Regression (MLR), Moderation and Mediation. The dataset consists of 777 colleges and its 20 features. 
